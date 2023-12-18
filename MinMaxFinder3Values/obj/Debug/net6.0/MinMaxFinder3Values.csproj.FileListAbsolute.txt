@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\bin\Debug\net6.0\MinMaxFinder3Values.exe
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\bin\Debug\net6.0\MinMaxFinder3Values.deps.json
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\bin\Debug\net6.0\MinMaxFinder3Values.runtimeconfig.json
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\bin\Debug\net6.0\MinMaxFinder3Values.dll
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\bin\Debug\net6.0\MinMaxFinder3Values.pdb
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.dll
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\refint\MinMaxFinder3Values.dll
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.pdb
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\MinMaxFinder3Values.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\MinMaxFinder3Values\obj\Debug\net6.0\ref\MinMaxFinder3Values.dll
