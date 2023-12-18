@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZapxv6Db2VEUwI2rJllmO/DikU7j+Mj309y9PJ3tekViSau59eNyEtIToR0MuGylmKLAm7IJqcoERX9gbXbvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VOVAN\\source\\repos\\EmployeeDB\\EmployeeDB\\EmployeeDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VOVAN\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

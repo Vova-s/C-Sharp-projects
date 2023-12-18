@@ -1,0 +1,16 @@
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.exe
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.deps.json
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.runtimeconfig.json
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.runtimeconfig.dev.json
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.dll
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\bin\Debug\net5.0\EmployeeDB.pdb
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.dll
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\refint\EmployeeDB.dll
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.pdb
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\EmployeeDB.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\EmployeeDB\EmployeeDB\obj\Debug\net5.0\ref\EmployeeDB.dll

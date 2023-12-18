@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\bin\Debug\net6.0\DynamicMatrixSorter.exe
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\bin\Debug\net6.0\DynamicMatrixSorter.deps.json
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\bin\Debug\net6.0\DynamicMatrixSorter.runtimeconfig.json
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\bin\Debug\net6.0\DynamicMatrixSorter.dll
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\bin\Debug\net6.0\DynamicMatrixSorter.pdb
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.dll
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\refint\DynamicMatrixSorter.dll
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.pdb
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\DynamicMatrixSorter.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\DynamicMatrixSorter\obj\Debug\net6.0\ref\DynamicMatrixSorter.dll
