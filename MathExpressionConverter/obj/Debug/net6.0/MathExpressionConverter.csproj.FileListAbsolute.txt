@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\MathExpressionConverter\bin\Debug\net6.0\MathExpressionConverter.exe
+C:\Users\VOVAN\source\repos\MathExpressionConverter\bin\Debug\net6.0\MathExpressionConverter.deps.json
+C:\Users\VOVAN\source\repos\MathExpressionConverter\bin\Debug\net6.0\MathExpressionConverter.runtimeconfig.json
+C:\Users\VOVAN\source\repos\MathExpressionConverter\bin\Debug\net6.0\MathExpressionConverter.dll
+C:\Users\VOVAN\source\repos\MathExpressionConverter\bin\Debug\net6.0\MathExpressionConverter.pdb
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.dll
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\refint\MathExpressionConverter.dll
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.pdb
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\MathExpressionConverter.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\MathExpressionConverter\obj\Debug\net6.0\ref\MathExpressionConverter.dll
