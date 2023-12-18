@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\bin\Debug\net6.0\MathematicalExpressionCalculator.exe
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\bin\Debug\net6.0\MathematicalExpressionCalculator.deps.json
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\bin\Debug\net6.0\MathematicalExpressionCalculator.runtimeconfig.json
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\bin\Debug\net6.0\MathematicalExpressionCalculator.dll
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\bin\Debug\net6.0\MathematicalExpressionCalculator.pdb
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.dll
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\refint\MathematicalExpressionCalculator.dll
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.pdb
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\MathematicalExpressionCalculator.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\MathematicalExpressionCalculator\obj\Debug\net6.0\ref\MathematicalExpressionCalculator.dll

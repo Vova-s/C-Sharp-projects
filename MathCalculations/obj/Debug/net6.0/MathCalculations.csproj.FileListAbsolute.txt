@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\MathCalculations\bin\Debug\net6.0\MathCalculations.exe
+C:\Users\VOVAN\source\repos\MathCalculations\bin\Debug\net6.0\MathCalculations.deps.json
+C:\Users\VOVAN\source\repos\MathCalculations\bin\Debug\net6.0\MathCalculations.runtimeconfig.json
+C:\Users\VOVAN\source\repos\MathCalculations\bin\Debug\net6.0\MathCalculations.dll
+C:\Users\VOVAN\source\repos\MathCalculations\bin\Debug\net6.0\MathCalculations.pdb
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.dll
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\refint\MathCalculations.dll
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.pdb
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\MathCalculations.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\MathCalculations\obj\Debug\net6.0\ref\MathCalculations.dll
