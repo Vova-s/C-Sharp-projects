@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\bin\Debug\net6.0\PrimeKeyCryptography.exe
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\bin\Debug\net6.0\PrimeKeyCryptography.deps.json
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\bin\Debug\net6.0\PrimeKeyCryptography.runtimeconfig.json
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\bin\Debug\net6.0\PrimeKeyCryptography.dll
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\bin\Debug\net6.0\PrimeKeyCryptography.pdb
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.dll
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\refint\PrimeKeyCryptography.dll
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.pdb
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\PrimeKeyCryptography.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\PrimeKeyCryptography\obj\Debug\net6.0\ref\PrimeKeyCryptography.dll
