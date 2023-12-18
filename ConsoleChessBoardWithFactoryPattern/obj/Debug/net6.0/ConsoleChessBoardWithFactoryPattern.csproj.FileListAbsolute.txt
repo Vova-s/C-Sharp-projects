@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\bin\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.exe
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\bin\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.deps.json
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\bin\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.runtimeconfig.json
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\bin\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.dll
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\bin\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.pdb
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.dll
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\refint\ConsoleChessBoardWithFactoryPattern.dll
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.pdb
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ConsoleChessBoardWithFactoryPattern.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\ConsoleChessBoardWithFactoryPattern\obj\Debug\net6.0\ref\ConsoleChessBoardWithFactoryPattern.dll

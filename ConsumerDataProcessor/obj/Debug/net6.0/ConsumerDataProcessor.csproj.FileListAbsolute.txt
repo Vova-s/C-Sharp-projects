@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\bin\Debug\net6.0\ConsumerDataProcessor.exe
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\bin\Debug\net6.0\ConsumerDataProcessor.deps.json
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\bin\Debug\net6.0\ConsumerDataProcessor.runtimeconfig.json
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\bin\Debug\net6.0\ConsumerDataProcessor.dll
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\bin\Debug\net6.0\ConsumerDataProcessor.pdb
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.dll
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\refint\ConsumerDataProcessor.dll
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.pdb
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ConsumerDataProcessor.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\ConsumerDataProcessor\obj\Debug\net6.0\ref\ConsumerDataProcessor.dll
