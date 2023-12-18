@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\RandomArrayPattern\bin\Debug\net6.0\RandomArrayPattern.exe
+C:\Users\VOVAN\source\repos\RandomArrayPattern\bin\Debug\net6.0\RandomArrayPattern.deps.json
+C:\Users\VOVAN\source\repos\RandomArrayPattern\bin\Debug\net6.0\RandomArrayPattern.runtimeconfig.json
+C:\Users\VOVAN\source\repos\RandomArrayPattern\bin\Debug\net6.0\RandomArrayPattern.dll
+C:\Users\VOVAN\source\repos\RandomArrayPattern\bin\Debug\net6.0\RandomArrayPattern.pdb
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.dll
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\refint\RandomArrayPattern.dll
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.pdb
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\RandomArrayPattern.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\RandomArrayPattern\obj\Debug\net6.0\ref\RandomArrayPattern.dll
