@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\bin\Debug\net6.0\Sine Summation Calculator.exe
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\bin\Debug\net6.0\Sine Summation Calculator.deps.json
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\bin\Debug\net6.0\Sine Summation Calculator.runtimeconfig.json
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\bin\Debug\net6.0\Sine Summation Calculator.dll
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\bin\Debug\net6.0\Sine Summation Calculator.pdb
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.dll
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\refint\Sine Summation Calculator.dll
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.pdb
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\Sine Summation Calculator.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\Sine Summation Calculator\obj\Debug\net6.0\ref\Sine Summation Calculator.dll
