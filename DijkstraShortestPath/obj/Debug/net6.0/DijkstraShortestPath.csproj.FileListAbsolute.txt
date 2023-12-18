@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.exe
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.deps.json
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.runtimeconfig.json
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.dll
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\bin\Debug\net6.0\DijkstraShortestPath.pdb
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.dll
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\refint\DijkstraShortestPath.dll
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.pdb
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\DijkstraShortestPath.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\DijkstraShortestPath\obj\Debug\net6.0\ref\DijkstraShortestPath.dll
