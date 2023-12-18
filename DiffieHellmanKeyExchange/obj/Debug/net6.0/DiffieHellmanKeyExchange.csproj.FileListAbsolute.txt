@@ -1,0 +1,5 @@
+C:\Users\VOVAN\source\repos\DiffieHellmanKeyExchange\obj\Debug\net6.0\DiffieHellmanKeyExchange.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\DiffieHellmanKeyExchange\obj\Debug\net6.0\DiffieHellmanKeyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\DiffieHellmanKeyExchange\obj\Debug\net6.0\DiffieHellmanKeyExchange.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\DiffieHellmanKeyExchange\obj\Debug\net6.0\DiffieHellmanKeyExchange.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\DiffieHellmanKeyExchange\obj\Debug\net6.0\DiffieHellmanKeyExchange.csproj.CoreCompileInputs.cache

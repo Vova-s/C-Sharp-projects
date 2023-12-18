@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\bin\Debug\net6.0\DayOfYearCalculator.exe
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\bin\Debug\net6.0\DayOfYearCalculator.deps.json
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\bin\Debug\net6.0\DayOfYearCalculator.runtimeconfig.json
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\bin\Debug\net6.0\DayOfYearCalculator.dll
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\bin\Debug\net6.0\DayOfYearCalculator.pdb
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.dll
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\refint\DayOfYearCalculator.dll
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.pdb
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\DayOfYearCalculator.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\DayOfYearCalculator\obj\Debug\net6.0\ref\DayOfYearCalculator.dll
