@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\bin\Debug\net6.0\TravelingSalesmanProblemSolver.exe
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\bin\Debug\net6.0\TravelingSalesmanProblemSolver.deps.json
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\bin\Debug\net6.0\TravelingSalesmanProblemSolver.runtimeconfig.json
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\bin\Debug\net6.0\TravelingSalesmanProblemSolver.dll
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\bin\Debug\net6.0\TravelingSalesmanProblemSolver.pdb
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.dll
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\refint\TravelingSalesmanProblemSolver.dll
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.pdb
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\TravelingSalesmanProblemSolver.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\TravelingSalesmanProblemSolver\obj\Debug\net6.0\ref\TravelingSalesmanProblemSolver.dll
