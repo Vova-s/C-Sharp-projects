@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\MatrixSorting\bin\Debug\net6.0\MatrixSorting.exe
+C:\Users\VOVAN\source\repos\MatrixSorting\bin\Debug\net6.0\MatrixSorting.deps.json
+C:\Users\VOVAN\source\repos\MatrixSorting\bin\Debug\net6.0\MatrixSorting.runtimeconfig.json
+C:\Users\VOVAN\source\repos\MatrixSorting\bin\Debug\net6.0\MatrixSorting.dll
+C:\Users\VOVAN\source\repos\MatrixSorting\bin\Debug\net6.0\MatrixSorting.pdb
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.dll
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\refint\MatrixSorting.dll
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.pdb
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\MatrixSorting.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\MatrixSorting\obj\Debug\net6.0\ref\MatrixSorting.dll

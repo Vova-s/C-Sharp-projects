@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTraversalAnalysis", "MatrixTraversalAnalysis.csproj", "{982F4036-B715-4DCF-8FD0-ABF276545EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982F4036-B715-4DCF-8FD0-ABF276545EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982F4036-B715-4DCF-8FD0-ABF276545EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982F4036-B715-4DCF-8FD0-ABF276545EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982F4036-B715-4DCF-8FD0-ABF276545EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0623B51-097F-4345-86F1-BBBF3C5C276E}
+	EndGlobalSection
+EndGlobal
