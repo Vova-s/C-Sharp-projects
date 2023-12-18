@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\bin\Debug\net6.0\FruitGardenSimulation.exe
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\bin\Debug\net6.0\FruitGardenSimulation.deps.json
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\bin\Debug\net6.0\FruitGardenSimulation.runtimeconfig.json
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\bin\Debug\net6.0\FruitGardenSimulation.dll
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\bin\Debug\net6.0\FruitGardenSimulation.pdb
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.dll
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\refint\FruitGardenSimulation.dll
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.pdb
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\FruitGardenSimulation.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\FruitGardenSimulation\obj\Debug\net6.0\ref\FruitGardenSimulation.dll

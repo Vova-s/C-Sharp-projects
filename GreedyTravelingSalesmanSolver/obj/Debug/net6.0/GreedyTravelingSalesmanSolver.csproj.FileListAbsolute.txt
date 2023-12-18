@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\bin\Debug\net6.0\GreedyTravelingSalesmanSolver.exe
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\bin\Debug\net6.0\GreedyTravelingSalesmanSolver.deps.json
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\bin\Debug\net6.0\GreedyTravelingSalesmanSolver.runtimeconfig.json
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\bin\Debug\net6.0\GreedyTravelingSalesmanSolver.dll
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\bin\Debug\net6.0\GreedyTravelingSalesmanSolver.pdb
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.dll
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\refint\GreedyTravelingSalesmanSolver.dll
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.pdb
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\GreedyTravelingSalesmanSolver.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\GreedyTravelingSalesmanSolver\obj\Debug\net6.0\ref\GreedyTravelingSalesmanSolver.dll

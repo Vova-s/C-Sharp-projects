@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\HashTableTask\bin\Debug\net6.0\HashTableTask.exe
+C:\Users\VOVAN\source\repos\HashTableTask\bin\Debug\net6.0\HashTableTask.deps.json
+C:\Users\VOVAN\source\repos\HashTableTask\bin\Debug\net6.0\HashTableTask.runtimeconfig.json
+C:\Users\VOVAN\source\repos\HashTableTask\bin\Debug\net6.0\HashTableTask.dll
+C:\Users\VOVAN\source\repos\HashTableTask\bin\Debug\net6.0\HashTableTask.pdb
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.dll
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\refint\HashTableTask.dll
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.pdb
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\HashTableTask.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\HashTableTask\obj\Debug\net6.0\ref\HashTableTask.dll
