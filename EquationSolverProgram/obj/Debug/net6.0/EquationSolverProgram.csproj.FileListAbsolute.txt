@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\EquationSolverProgram\bin\Debug\net6.0\EquationSolverProgram.exe
+C:\Users\VOVAN\source\repos\EquationSolverProgram\bin\Debug\net6.0\EquationSolverProgram.deps.json
+C:\Users\VOVAN\source\repos\EquationSolverProgram\bin\Debug\net6.0\EquationSolverProgram.runtimeconfig.json
+C:\Users\VOVAN\source\repos\EquationSolverProgram\bin\Debug\net6.0\EquationSolverProgram.dll
+C:\Users\VOVAN\source\repos\EquationSolverProgram\bin\Debug\net6.0\EquationSolverProgram.pdb
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.dll
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\refint\EquationSolverProgram.dll
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.pdb
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\EquationSolverProgram.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\EquationSolverProgram\obj\Debug\net6.0\ref\EquationSolverProgram.dll
