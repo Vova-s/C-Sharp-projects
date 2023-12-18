@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaningEquipmentFactorySystemByFactoryPattern", "CleaningEquipmentFactorySystemByFactoryPattern.csproj", "{F32135EC-A3DB-41A1-B1FC-AD4B562F9FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32135EC-A3DB-41A1-B1FC-AD4B562F9FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32135EC-A3DB-41A1-B1FC-AD4B562F9FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32135EC-A3DB-41A1-B1FC-AD4B562F9FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32135EC-A3DB-41A1-B1FC-AD4B562F9FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7799CF36-C5F1-4AD1-91B7-92302FDA4395}
+	EndGlobalSection
+EndGlobal
