@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\BrickFittingChecker\bin\Debug\net6.0\BrickFittingChecker.exe
+C:\Users\VOVAN\source\repos\BrickFittingChecker\bin\Debug\net6.0\BrickFittingChecker.deps.json
+C:\Users\VOVAN\source\repos\BrickFittingChecker\bin\Debug\net6.0\BrickFittingChecker.runtimeconfig.json
+C:\Users\VOVAN\source\repos\BrickFittingChecker\bin\Debug\net6.0\BrickFittingChecker.dll
+C:\Users\VOVAN\source\repos\BrickFittingChecker\bin\Debug\net6.0\BrickFittingChecker.pdb
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.dll
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\refint\BrickFittingChecker.dll
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.pdb
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\BrickFittingChecker.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\BrickFittingChecker\obj\Debug\net6.0\ref\BrickFittingChecker.dll
