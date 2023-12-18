@@ -1,0 +1,16 @@
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.exe
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.deps.json
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.runtimeconfig.json
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.runtimeconfig.dev.json
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.dll
+C:\Users\VOVAN\source\repos\PP1\PP1\bin\Debug\net5.0\PP1.pdb
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.dll
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\ref\PP1.dll
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.pdb
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\PP1.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\PP1\PP1\obj\Debug\net5.0\refint\PP1.dll

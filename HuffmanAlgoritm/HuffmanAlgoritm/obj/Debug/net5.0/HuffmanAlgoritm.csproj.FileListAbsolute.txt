@@ -1,0 +1,16 @@
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.exe
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.deps.json
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.runtimeconfig.json
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.runtimeconfig.dev.json
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.dll
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\bin\Debug\net5.0\HuffmanAlgoritm.pdb
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.dll
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\refint\HuffmanAlgoritm.dll
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.pdb
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\HuffmanAlgoritm.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\HuffmanAlgoritm\HuffmanAlgoritm\obj\Debug\net5.0\ref\HuffmanAlgoritm.dll
