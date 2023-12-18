@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\AdvancedListManager\bin\Debug\net6.0\AdvancedListManager.exe
+C:\Users\VOVAN\source\repos\AdvancedListManager\bin\Debug\net6.0\AdvancedListManager.deps.json
+C:\Users\VOVAN\source\repos\AdvancedListManager\bin\Debug\net6.0\AdvancedListManager.runtimeconfig.json
+C:\Users\VOVAN\source\repos\AdvancedListManager\bin\Debug\net6.0\AdvancedListManager.dll
+C:\Users\VOVAN\source\repos\AdvancedListManager\bin\Debug\net6.0\AdvancedListManager.pdb
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.dll
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\refint\AdvancedListManager.dll
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.pdb
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\AdvancedListManager.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\AdvancedListManager\obj\Debug\net6.0\ref\AdvancedListManager.dll
