@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab4_sem3.ComponentsPC" Collapsed="true">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentsPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.Computer" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACAAAAAAAAAAABAAEAAAAAAAAA=</HashCode>
+      <FileName>Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.Creator" Collapsed="true">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.IBuilder" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACgAAAAAAAQQAAAAAAAAASIMAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.LowPriceCategory" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACgAAAAAAAQQAAAAAAAAACIIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LowPriceCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.Program" Collapsed="true">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetCase" Collapsed="true">
+    <Position X="14.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SetCase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetCooler" Collapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>SetCooler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetCPU" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAIAAAACAAAAAEAAIAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>SetCPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetGPU" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAACAAAAAAAAAQAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SetGPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetHDD" Collapsed="true">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAQAAAAgAAAA=</HashCode>
+      <FileName>SetHDD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetMotherboard" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAQAACAAAAAIAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SetMotherboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetPSU" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgIAAA=</HashCode>
+      <FileName>SetPSU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetRAM" Collapsed="true">
+    <Position X="12.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAACAIAAAAAAACAAAAgAAAA=</HashCode>
+      <FileName>SetRAM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_sem3.SetSSD" Collapsed="true">
+    <Position X="19.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAQAAAAgAAAA=</HashCode>
+      <FileName>SetSSD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

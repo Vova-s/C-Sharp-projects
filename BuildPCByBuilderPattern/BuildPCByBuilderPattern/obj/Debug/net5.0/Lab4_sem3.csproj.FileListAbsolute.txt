@@ -1,0 +1,16 @@
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.exe
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.deps.json
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.runtimeconfig.json
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.runtimeconfig.dev.json
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.dll
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\bin\Debug\net5.0\Lab4_sem3.pdb
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.dll
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\refint\Lab4_sem3.dll
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.pdb
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\Lab4_sem3.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\Lab4_sem3\Lab4_sem3\obj\Debug\net5.0\ref\Lab4_sem3.dll
