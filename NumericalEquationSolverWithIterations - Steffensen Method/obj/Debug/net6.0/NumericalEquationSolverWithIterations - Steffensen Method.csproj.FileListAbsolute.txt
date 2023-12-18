@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\bin\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.exe
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\bin\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.deps.json
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\bin\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.runtimeconfig.json
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\bin\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.dll
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\bin\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.pdb
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.dll
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\refint\NumericalEquationSolverWithIterations - Steffensen Method.dll
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.pdb
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\NumericalEquationSolverWithIterations - Steffensen Method.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\NumericalEquationSolverWithIterations - Steffensen Method\obj\Debug\net6.0\ref\NumericalEquationSolverWithIterations - Steffensen Method.dll

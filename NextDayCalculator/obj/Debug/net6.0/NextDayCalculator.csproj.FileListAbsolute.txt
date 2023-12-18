@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\NextDayCalculator\bin\Debug\net6.0\NextDayCalculator.exe
+C:\Users\VOVAN\source\repos\NextDayCalculator\bin\Debug\net6.0\NextDayCalculator.deps.json
+C:\Users\VOVAN\source\repos\NextDayCalculator\bin\Debug\net6.0\NextDayCalculator.runtimeconfig.json
+C:\Users\VOVAN\source\repos\NextDayCalculator\bin\Debug\net6.0\NextDayCalculator.dll
+C:\Users\VOVAN\source\repos\NextDayCalculator\bin\Debug\net6.0\NextDayCalculator.pdb
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.dll
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\refint\NextDayCalculator.dll
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.pdb
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\NextDayCalculator.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\NextDayCalculator\obj\Debug\net6.0\ref\NextDayCalculator.dll
