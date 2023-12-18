@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralConverter", "RomanNumeralConverter.csproj", "{15C8DBB2-286E-4289-A657-5ED47F65B72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C8DBB2-286E-4289-A657-5ED47F65B72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C8DBB2-286E-4289-A657-5ED47F65B72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C8DBB2-286E-4289-A657-5ED47F65B72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C8DBB2-286E-4289-A657-5ED47F65B72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACEC2877-217C-43A9-A010-5CB71AB7622A}
+	EndGlobalSection
+EndGlobal

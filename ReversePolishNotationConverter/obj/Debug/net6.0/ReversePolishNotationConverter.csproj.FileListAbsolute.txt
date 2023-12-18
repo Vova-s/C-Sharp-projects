@@ -1,0 +1,15 @@
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\bin\Debug\net6.0\ReversePolishNotationConverter.exe
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\bin\Debug\net6.0\ReversePolishNotationConverter.deps.json
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\bin\Debug\net6.0\ReversePolishNotationConverter.runtimeconfig.json
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\bin\Debug\net6.0\ReversePolishNotationConverter.dll
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\bin\Debug\net6.0\ReversePolishNotationConverter.pdb
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.csproj.AssemblyReference.cache
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.AssemblyInfoInputs.cache
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.AssemblyInfo.cs
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.csproj.CoreCompileInputs.cache
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.dll
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\refint\ReversePolishNotationConverter.dll
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.pdb
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ReversePolishNotationConverter.genruntimeconfig.cache
+C:\Users\VOVAN\source\repos\ReversePolishNotationConverter\obj\Debug\net6.0\ref\ReversePolishNotationConverter.dll
