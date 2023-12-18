@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VOVAN\\source\\repos\\AdvancedListManager\\AdvancedListManager.csproj",
+      "projectUniqueName": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\AdvancedListManager\\AdvancedListManager.csproj",
       "projectName": "AdvancedListManager",
-      "projectPath": "C:\\Users\\VOVAN\\source\\repos\\AdvancedListManager\\AdvancedListManager.csproj",
+      "projectPath": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\AdvancedListManager\\AdvancedListManager.csproj",
       "packagesPath": "C:\\Users\\VOVAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VOVAN\\source\\repos\\AdvancedListManager\\obj\\",
+      "outputPath": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\AdvancedListManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
