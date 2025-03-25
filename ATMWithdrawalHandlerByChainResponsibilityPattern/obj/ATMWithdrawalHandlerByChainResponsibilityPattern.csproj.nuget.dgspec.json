@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj": {}
+    "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj": {
+    "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
+        "projectUniqueName": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
         "projectName": "ATMWithdrawalHandlerByChainResponsibilityPattern",
-        "projectPath": "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
+        "projectPath": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
         "packagesPath": "C:\\Users\\VOVAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\obj\\",
+        "outputPath": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -60,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

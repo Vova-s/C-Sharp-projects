@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGE/6NFrrMyLHN6BPuy/AnVBiq0ohaAqqdCkwiCY6qiCTKhf0zFODKIu2MLBVqaQYpT74XSOLstTFg7EGZ/BGw==",
+  "dgSpecHash": "MRmp5TDZGK0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VOVAN\\source\\repos\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
+  "projectFilePath": "C:\\Users\\VOVAN\\Source\\Repos\\C-Sharp-projects\\ATMWithdrawalHandlerByChainResponsibilityPattern\\ATMWithdrawalHandlerByChainResponsibilityPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

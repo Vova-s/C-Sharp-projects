@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATMWithdrawalHandlerByChainResponsibilityPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a746098a9f739cbc994c558b9806dbf4570ab95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATMWithdrawalHandlerByChainResponsibilityPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATMWithdrawalHandlerByChainResponsibilityPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
